@@ -19,6 +19,6 @@
 
 ## Contact
 For questions or feedback, reach out to:
-Email: amoghjambekar45@gmail.com
+Email: amoghjambekar45@gmail.com <br>
 Thank you for using Quick!
 
